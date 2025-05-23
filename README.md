@@ -23,6 +23,14 @@
 
 * Sitio desplegado en Vercel: [https://fuentedevida.vercel.app/](https://fuentedevida.vercel.app/)
 * Captura de pantalla:
+* ![image](https://github.com/user-attachments/assets/7fd59377-a048-4292-9372-24ca197cdc0d)
+* ![image](https://github.com/user-attachments/assets/c02a4e8a-9813-4eee-acb9-2a10ecdca709)
+* ![image](https://github.com/user-attachments/assets/a247ae45-fc83-4a2b-8704-3ae861485a72)
+* ![image](https://github.com/user-attachments/assets/a05183e7-11c3-44a1-9171-561f02e8d338)
+* ![image](https://github.com/user-attachments/assets/88f6111d-bcf5-4777-9492-7ccd1fa364cc)
+* ![image](https://github.com/user-attachments/assets/37f1e8f8-92db-4d68-a45e-b94d9d2078ea)
+
+
 
 ## 📋 Tabla de Contenidos
 
